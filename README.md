@@ -1,0 +1,2 @@
+# eventManagement
+Event Management Application
